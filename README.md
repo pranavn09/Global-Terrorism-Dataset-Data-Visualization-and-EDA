@@ -12,6 +12,4 @@ A comprehensive EDA on the Global Terrorism Dataset (1970-2020), analyzing patte
 📅 50 years of data (1970-2020) analyzed for meaningful patterns.
 📈 Business & Data Analytics for strategic decision-making.
 
-
-
 Skills: Requirements Gathering · Data Analytics · Business Intelligence · Microsoft Power BI 🚀
